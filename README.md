@@ -1,4 +1,4 @@
-emackey.github.com
-==================
+emackey.github.io
+=================
 
 GitHub Pages
